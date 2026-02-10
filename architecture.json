@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-epistolary-spiritual-seeking",
+  "title": "The Falcon of the Lagoon",
+  "tagline": "A Renaissance novice is summoned from her convent to Venice by a mysterious collector, where letters hold the key to a spiritual search that will unravel her world.",
+  "target_words": 66596,
+  "actual_words": 66596,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Faith and Doubt",
+    "The Power of Secrets",
+    "The Search for Meaning",
+    "Sisterhood and Sacrifice"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Scent of Venetian Ink",
+      "words": 5549
+    },
+    {
+      "ch": 2,
+      "title": "A Shipwreck in the Twilight",
+      "words": 5549
+    },
+    {
+      "ch": 3,
+      "title": "The Thieving Light of Morning",
+      "words": 5549
+    },
+    {
+      "ch": 4,
+      "title": "A Room of Yeast and Ghosts",
+      "words": 5549
+    },
+    {
+      "ch": 5,
+      "title": "The Whisper of a Fall",
+      "words": 5549
+    },
+    {
+      "ch": 6,
+      "title": "A Sound That Did Not Belong",
+      "words": 5549
+    },
+    {
+      "ch": 7,
+      "title": "A City of Frozen Light",
+      "words": 5549
+    },
+    {
+      "ch": 8,
+      "title": "The Descent Into Silence",
+      "words": 5549
+    },
+    {
+      "ch": 9,
+      "title": "A Theorem of Cold Gratitude",
+      "words": 5549
+    },
+    {
+      "ch": 10,
+      "title": "The Scentless Conveyance",
+      "words": 5549
+    },
+    {
+      "ch": 11,
+      "title": "A Bridge of Shattered Silence",
+      "words": 5549
+    },
+    {
+      "ch": 12,
+      "title": "The Letter That Smelled of Home",
+      "words": 5549
+    }
+  ]
+}
